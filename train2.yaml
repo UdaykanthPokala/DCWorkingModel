@@ -1,0 +1,12 @@
+path: /content/gender_data  # dataset root dir
+train: /content/gender_data/train  # train images (relative to 'path') 128 images
+val: /content/gender_data/train  # val images (relative to 'path') 128 images
+test:  # test images (optional)
+
+# Classes
+names:
+  0: male
+  1: female
+  2: femalew
+
+
